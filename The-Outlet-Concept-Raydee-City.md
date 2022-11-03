@@ -4,7 +4,7 @@
 ![](https://i.imgur.com/K2H3wOr.jpg)
 
 ## The light in me recognizes and honors the light in you.
-Raydee is the home city of peaceful people known as the Raydians. With the help of a prism-like device called a "Kee" they hold in their hand, their internal energy can be focused, refracted, and projected as radiant light. Each Raydian is unique, therefore the color and brilliance of their internal energy is also unique. Without the Kee, they have an "all or nothing" choice for emanating their internal light. To reveal all is to be completely exposed.
+**Raydee is the home city of peaceful people known as the Raydians**. With the help of a prism-like device called a "Kee" they hold in their hand, their internal energy can be focused, refracted, and projected as radiant light. Each Raydian is unique, therefore the color and brilliance of their internal energy is also unique. Without the Kee, they have an "all or nothing" choice for emanating their internal light. To reveal all is to be completely exposed.
 
 Some Raydians are more creative, some more practical and the light reveals that. Some are older, and perhaps wiser and more amber. Some are younger, with white-hot brilliance. Some are philosophers and carpenters. There are blue flames, green, and orange depending on the makeup of their inner light. The full spectrum is possible. .
 
