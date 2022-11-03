@@ -1,4 +1,4 @@
-# The Outlet
+# The Outlet README
 ###### tags: `project one`
 
 ## The Outlet is a Marketplace where peaceful people go to trade, so they may buy and sell the goods and services that sustain themselves, their families, and each other.
