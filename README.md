@@ -4,10 +4,10 @@
 ## Summary
 The Outlet is Logos Lab's first project. It can be described as a privacy-enabled buy/sell marketplace with built-in reputation. We are using ZK-Proof technology to ensure privacy, and either non-repudiable reputation a-la [Unirep](https://medium.com/privacy-scaling-explorations/unirep-a-private-and-non-repudiable-reputation-system-7fb5c6478549), or zero-knowledge group membership like [Semaphore](https://semaphore.appliedzkp.org/) (or a combination of both) to let participants **privately trade goods with reputable actors**. If they so wish.
 
-## Conveying The Outlet
-Logos Labs approaches each project in a holistic way. We aim to express an idea, a philosophy — the "why" behind actions and interactions — comprehensively. As code, as copy, as design and UX, as art and illustration, and as narrative. Summed together, we hope those who interact with our project will not only enjoy their experience with the app, but also feel how much care we have for it, and intention we put into it. That they may experience its necessity, its reason for existence as we intend it.
+## Expressing The Outlet
+Logos Labs approaches each project in a holistic way. We aim to convey an idea, a philosophy — the "why" behind actions and interactions — comprehensively. As code, as copy, as design and UX, as art and illustration, and as narrative. Summed together, we hope those who interact with our project will not only enjoy their experience with the app, but also feel how much care we have for it, and intention we put into it. That they may experience its necessity, its reason for existence as we intend it.
 
-**Conveyance may look like:**
+**How we may express The Outlet:**
 - A story or theme
 - A decentralized app with inviting UX
 - Illustrations and Animations
