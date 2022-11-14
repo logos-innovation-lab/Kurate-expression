@@ -11,7 +11,7 @@ Each Raydian is unique, therefore the color, brilliance, shape, and size of thei
 Some Raydians are more ambitious, some more reserved and their light reveals that. Some are older, and perhaps wiser and more amber. Some are younger, with white-hot brilliance. Some are philosophers and carpenters. There are blue flames, green, and orange glows, depending on the makeup of their inner light. The full spectrum is possible.
 
 ### Their light is their identity, their fingerprint. 
-It represents all their characteristics — creativity, knowledge, skillset, everything they've earned, experienced, and learned expressed as their individual hue. But it also shows their "state". You can see when they're all filled up, supercharged. You can see when their energy is low, in need of nourishment. Their age and fitness. How they feel at the moment. If they were to emit their light unfiltered, they would show all of themselves.
+It represents all their characteristics — creativity, knowledge, skillset, everything they've earned, experienced, and learned expressed as their individual emanation. But it also shows their "state". You can see when they're all filled up, supercharged. You can see when their energy is low, in need of nourishment. Their age and fitness. How they feel at the moment. If they were to emit their light unfiltered, they would show all of themselves.
 
 Since their light shows everything about these Raydee City dwellers, it's the most precious thing in the world to them. You might imagine they are protective of exposing their light, and you would be right! Raydians are inherently peaceful people, but like all societies there is a small percentage of anti-social beings among them looking to take advantage, hurt, or steal. So it's important Raydians can guard themselves and their light against folly. 
 
@@ -34,7 +34,7 @@ Raydians often band together into **Clubs**, pooling their reputation. By doing 
 
 **Membership has its privileges!**
 
-How does one know they are dealing with a member of a Club? Each club has its own **Avatar** — like squad colors — and all Club members are able to emit it using their Kee. A Club's Avatar is the personification of of the Club's reputation. By emitting a Club avatar, a Raydian may enjoy individual anonymity and group reputation as they interact with their peers.
+How does one know they are dealing with a member of a Club? Each Club has its own **Emblem** — like squad colors — and all Club members are able to emit it using their Kee. A Club's Emblem is the personification of of the Club's reputation. By using a Club's Emblem, a Raydian may enjoy individual anonymity and group reputation as they interact with their peers.
 
 ![](https://i.imgur.com/EnY0HPU.png)
 
@@ -44,7 +44,7 @@ Like all peaceful people, Raydians trade with each other for goods and services.
 
 **The transaction is quite something to see.** 
 
-When it's time to pay, both Raydians hold up their Kees facing each other, and energy is transferred from one to the other, focused through their Kee, absorbed into their inner energy center.
+When it's time to pay, both Raydians hold up their Kees facing each other, and energy is transferred from one to the other, focused through their Kee, absorbed into the receiver's inner pilot light.
 
 Although an open market, **The Outlet** isn't some free-for-all. No-no-no! There are reputational requirements for entry, so Raydians must emit enough of themselves to satisfy that requirement. But beyond that minimum they only reveal what they choose.
 
