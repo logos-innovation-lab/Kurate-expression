@@ -17,10 +17,8 @@ Logos Labs approaches each project in a holistic way. We aim to convey an idea, 
 
 We make technology. Technology is but a tool. It can be used for human enrichment or human enslavement. It's the philosophy behind the technology that determines which. Ours is peace. Let us show you :)
 
-## The Outlet Story: Raydee City
-**Raydee is the home city of peaceful people known as the Raydians**. With the help of a prism-like device called a "Kee" they hold in their hand, their internal energy can be focused, refracted, and projected as radiant light.
+## The Outlet Story:
 
-Read the entire story here: [The Outlet Story: Raydee City](https://github.com/logos-innovation-lab/theoutlet-expression/blob/Main/The%20Outlet%20Story:%20Raydee%20City.md)
 
 ## Helpful Links
 For a philosophical overview please read [The Outlet Overview](https://github.com/logos-innovation-lab/theoutlet-expression/blob/Main/The-Outlet-Overview.md).
