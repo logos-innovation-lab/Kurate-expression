@@ -17,13 +17,31 @@ Logos Labs approaches each project in a holistic way. We aim to convey an idea, 
 
 We make technology. Technology is but a tool. It can be used for human enrichment or human enslavement. It's the philosophy behind the technology that determines which. Ours is peace. Let us show you :)
 
-## The Outlet Story:
+## The Outlet Story
+[A Game Called The Outlet](https://github.com/logos-innovation-lab/theoutlet-expression/blob/Main/The%20Outlet%20Lore%2C%20A%20Game%20Called%20The%20Outlet.md)
+
+## Milestones
+### Milestone 1: Create privacy-enabled identities and chat.
+
+- Epic 1: As a sentient being I create identities using ZK proofs and a Logos Keycard, so that I may interact with other sentient beings using the same technology.
+- Epic 2: I can switch between identities I created with ZK proofs and a Logos Keycard.
+- Epic 3: I can choose which aspects of my identity I would like to show while interacting with others.
+- Epic 4: Using an identity I created with ZK proofs and a Logos keycard, I can enter a virtual place and chat with others using the same technology.
+
+### Milestone 2: Post requets and offers in context.
+
+- Epic 1: As a sentient being I can post a request a request or offer in a marketplace, thus giving my post context.
+- Epic 2: I can add helpful details to my post, for example images, pricing, descriptions, etc.
+
+### Milestone 3: Buy or sell something.
+
+### Milestone 4: Sustain the ecosystem.
+
+### Milestone 5: Create a marketplace.
 
 
 ## Helpful Links
 For a philosophical overview please read [The Outlet Overview](https://github.com/logos-innovation-lab/theoutlet-expression/blob/Main/The-Outlet-Overview.md).
-
-For a list of Milestones, please visit Milestones[link needed].
 
 The Outlet Website: Visit here.
 
