@@ -1,6 +1,6 @@
 ###### tags: `project one`
 
-# The Outlet Lore: A Game Called The Outlet
+A Game Called The Outlet: Vibe And Treatment
 
 ---
 
