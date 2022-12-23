@@ -29,6 +29,7 @@ On the "choose identity" screen, a wallet-connected user may choose a Persona to
 Players interact anonymously in the app as themselves — an Anonymous "chorus-member", akin to the chorus in a musical play. They all appear the same, but can earn reputation by playing as Personas. Reputation is earned by posting content the Persona's community deems appropriate. Or, by helping to curate good content through voting on whether or not a post is appropriate for the community.
 
 **Group**
+
 **Kars Drivers**
 Kars Drivers is a rideshare association made up of elite drivers who put the comfort and safety of their clients above all else. Member requirement are quite strict, so it's difficult to join. They have amazing reputation in the community, so drivers who are invited to join get the best jobs and as much work as they would like. Join Kars Drivers and add to their stellar reputation. Playing as Kars Drivers means doing well-received rideshare deals through The Outlet.
 
