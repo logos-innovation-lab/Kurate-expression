@@ -25,6 +25,7 @@ On the "choose identity" screen, a wallet-connected user may choose a Persona to
 ### Examples of Personas that could exist
 
 **Individual**
+
 **The Shadavatar (haha shadow-avatar)**
 Players interact anonymously in the app as themselves — an Anonymous "chorus-member", akin to the chorus in a musical play. They all appear the same, but can earn reputation by playing as Personas. Reputation is earned by posting content the Persona's community deems appropriate. Or, by helping to curate good content through voting on whether or not a post is appropriate for the community.
 
@@ -57,4 +58,3 @@ A Persona's profile screen gives details about the persona. It might be that for
 - Can user reputation determine what types of things can be done as the Persona, for example, the more reputable you are, the more ways you can interact as the persona?
 - Staking games for acquiring abilities as a persona?
 - How is a Persona like a marketplace? How is it like an association? How is it like a first-person video game? Is it always all 3?
-
