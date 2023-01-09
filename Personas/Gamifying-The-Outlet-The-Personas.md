@@ -17,44 +17,43 @@ Sometimes a Persona takes on the attributes of an association — like a union o
 
 Sometimes a Persona takes on the attributes of an individual who has motivations, or tasks to complete. The avatar of this type of Persona could be the image of a person.
 
-Users may interact as these Personas, or as a generic user called a Shadavatar.
+Users may interact by posting as an anonymous individual  "through" these Personas.
 
 ### How it could look
-On the "choose identity" screen, a wallet-connected user may choose a Persona to interact as, from a collection of tiles. All anonymous "personal" Personas are the same - an anon chorus who all use the same avatar. All others are "group" Personas, examples of which are below.
+On the "choose identity" screen, a wallet-connected Player may choose a Persona to interact as, from a collection of tiles. Players interact anonymously in the app as themselves — an Anonymous "chorus-member", akin to the chorus in a musical play. 
 
-### Examples of Personas that could exist
+They all appear the same, but can earn reputation by playing as Personas. Reputation is earned by posting content the Persona's community deems appropriate. Or, by helping to curate good content through voting on whether or not a post is appropriate for the community 
 
-**Individual**
 
-**The Shadavatar (haha shadow-avatar)**
-Players interact anonymously in the app as themselves — an Anonymous "chorus-member", akin to the chorus in a musical play. They all appear the same, but can earn reputation by playing as Personas. Reputation is earned by posting content the Persona's community deems appropriate. Or, by helping to curate good content through voting on whether or not a post is appropriate for the community.
+**Below are several examples of what those Personas might look like.**
 
-**Group**
+### Examples of Persona types that could exist. An "association", an "individual", and a "brand".
 
-**Kars Drivers**
+**Association: Kars Drivers**
 Kars Drivers is a rideshare association made up of elite drivers who put the comfort and safety of their clients above all else. Member requirement are quite strict, so it's difficult to join. They have amazing reputation in the community, so drivers who are invited to join get the best jobs and as much work as they would like. Join Kars Drivers and add to their stellar reputation. Playing as Kars Drivers means doing well-received rideshare deals through The Outlet.
 
-**Sam Who Needs Redemption**
-Sam is not a good person, but he's trying to do better. He committed a fraud that hurt a lot of innocent people, and now it's time to pay the piper, and provide restitution to those he hurt. He doesn't have money, but he's determined to be a positive influencer. Help Sam earn redemption by posting educational, inspirational, positive content. If you do? The community will reward you with reputation. And even better, if someone like Sam can earn his redemption, so can anyone.
+**Individual: Sam Who Needs Redemption**
+Sam is not a good person — his reputation is in the shitter. He committed a fraud that hurt a lot of innocent people, using his influence in a destructive way. 
 
-**The Brand of Your Life**
+Well, as a community we're not going to stand for it. So we're taking control of Sam's identity in order to rehabilitate his reputation. Players who adopt the Sam Persona are tasked with giving the Sam identity a second chance. Will he become a positive influence, thus helping ti right past wrongs? If so, Sam may indeed find redemption.
+
+**Brand: The Brand of Your Life**
 TBOYL posts products, design ideas, books, art, and entertainment that makes you say "Oh shit, that's fucking awesome!" Join TBOYL and help curate the best stuff on Earth, and earn good reputation while doing it.
 
-**Amia who Loves Rudo**
-Amia and Rudo met when they were young, and instantly knew they would be together. They courted, spending most days together as they finished their schooling. They are happy. Rudo is an artist, and Amia an electrician — but just starting out. She has come to The Outlet to earn reputation and make a living to help support Rudo while he writes his book. Help Amia stay above 1000 credits earned per month. As long as Amia stays above that threshold, Rudo won't need to get a job.
 
 ## Persona Profile Screen
-A Persona's profile screen gives details about the persona. It might be that for technical reasons we need to keep the in-app profile screen spartan. In that case, we could link out to a web2 landing page with more details. Depending on the persona type, examples of these details could be:
-- Admittance to membership criteria, or posting suggestions
-- Admin contact information (for example private chat within The Outlet)
-- Backstory video
+A Persona's profile screen gives details about the Persona. It might be that for technical reasons we need to keep the in-app profile screen spartan. In that case, we could link out to a web2 landing page with more details. Depending on the persona type, examples of these details could be:
 - Motivations or goals
 - Manifesto
-- Illustrations, videos
+- Backstory video
+- Illustrations
+- Admittance to membership criteria, or posting suggestions if applicable
+- Admin contact information (for example private chat within The Outlet)
 
-## Questions to ponder that affect game play
+## Fun Questions to ponder that affect game play
 - What does it mean to "play" as a service-provider persona like a rideshare association, vs. an individual-persona that has motivations/goals?
 - Can we build thresholds (monthly goals as an example) and what does that look like? The idea is falling below a threshold gets the Persona bricked, or has to start from scratch.
-- Can user reputation determine what types of things can be done as the Persona, for example, the more reputable you are, the more ways you can interact as the persona?
+- Can user reputation determine what types of things can be done as the Persona, for example, the more reputable you are, the more ways you can interact as the Persona?
 - Staking games for acquiring abilities as a persona?
 - How is a Persona like a marketplace? How is it like an association? How is it like a first-person video game? Is it always all 3?
+
