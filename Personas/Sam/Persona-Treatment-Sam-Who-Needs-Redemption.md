@@ -1,54 +1,47 @@
-##### `the outlet` `expression`
+###### tags: `the outlet` `expression`
 
 # Persona Treatment: Sam Who Needs Redemption
-## Goals
-Personas in The Outlet are group identities anonymous players can play as. They can have different "looks". For example, a Persona can look like a brand curating content, or an individual with goals. Different looks provide a different game play experience for anonymous players even if the game play mechanism is standardized. 
+## Preamble
+The Outlet is a place where individuals can experience anonymous interaction and gain anonymous reputation, through game play as a group identity. In other words, "anonymity with accountability through group identity". 
 
-We're building these Personas in-app, so that anyone can experience them hands-on. We are at the very beginning of working with anonymous identity and group reputation, so we think this approach will best illustrate what's possible to all who use it.
+We call these group identities Personas, and individual players can don a Persona like a mask and use it as their forward-facing self. It's possible for many anonymous players to play as the same Persona at the same time.
 
-We show different looks to be creative, and think about what types of game play are possible. We hope this will inspire other teams and orgs to create their own spin on it. 
+Personas can have different "looks". For example, a Persona can look like a brand curating content, or an individual with goals. Different looks provide a different game play experience for anonymous players, even if the game play mechanism is standardized. 
 
-The future is private but accountable. The future is fun.
+**We're building these Personas in-app, so that anyone can try them out.**
+
+We are at the very beginning of working with anonymous identity and group reputation, so we think this approach will best illustrate what's possible to all who use it.
+
+These different looks are thought experiments. We hope they will inspire other teams and orgs to create their own spin on it. **The future is private but accountable. The future is fun!**
+
+For more information about anonymity with accountability through group identity, please [read this post](https://github.com/logos-innovation-lab/theoutlet-expression/blob/Main/Personas/Gamifying-The-Outlet-The-Personas.md).
 
 ## Backstory For The Sam Persona
 ### Sam is coming off the worst year of his life. 
-He's not a good person but he's trying to do better. Sam defrauded scores of innocent people. It wasn't that Sam was intentionally trying to hurt people who trusted him, but he has a hard time empathizing with anyone an abstraction layer or two beyond his tightest circle. And he is wildly confident of his own abilities. This is a potentially disastrous trait bundle.
+Sam is not a good person and now his reputation is in the shitter. Sam has a large following and an over-sized influence over millions of lives. And while he could have used his position to enrich his following and help create a positive community, Sam did the exact opposite. 
 
-### So to be honest, Sam didn't think about what might happen. 
-Sam didn't entertain failure as an option, and he couldn't "feel" what failure might mean to those who trusted him. So recklessly, he gambled and lost. 
+He used his influence to defraud, steal, lie, manipulate financial markets, and generally cause mayhem to a level rarely seen. By doing so, Sam hurt scores of innocent people who trusted him.
 
-He lost big.
+Sam gambled away his future. He gambled away his followers' futures. And he lost big.
 
-### Now it's time to pay the piper.
-Sam has been ordered to repay those he hurt — to give restitution to the innocent people damaged by his negligence. 
+### We're not gonna take it.
+As mentioned, Sam has a huge following. But now that Sam has torched his reputation, all the potential good his influence could do is in danger of going to waste. We don't have to let that happen!
 
-This does not mean Sam feels remorse for his actions, but that's the beauty of restitution over punishment. Neither can promise to change the heart of a bad actor, but restitution allows the opportunity for victims to be made whole, and aggressors a pathway to redemption. A win-win outcome. Can Sam be redeemed? That's up to you!
 
-### Burnt reputation
-But Sam has a problem. His public reputation is in the shitter. How can he possibly repair it and pay back his victims if no one can trust him to do business?
-
-### That's why Sam is on his way to The Outlet.
-The Outlet is a place where everyone starts fresh. So Sam has the opportunity to start small, and little by little earn his reputation back.
-
-### People in The Outlet are quite discerning.
-The Outlet is no free-for-all of bad actors. On the contrary! Everyone there has high expectations of quality and integrity. They are wary of anything that looks too good to be true. Anyone doing business with someone who has no reputation or bad reputation only does so in a favorable context — like when asymmetric escrow is present, or when jobs aren't critical. 
-
-It's this environment where even someone like Sam, given the right context, can be trusted to do business. Patrons can have protection, and Sam can move forward unhampered by past bad reputation. It's this environment where his redemption can be earned.
+In The Outlet, the community can "play" as the Sam Persona. We can help rehabilitate Sam's reputation by being a force for good. We can use his influence to make a positive impact, redeeming Sam's identity in the process.
 
 ## Game Play Overview
-Sam's all out of money, but he does have ample time on his hands now that he's no longer living a swinging CEO lifestyle. So Sam is going to use his time to write encouraging messages to the community. He hopes to use his platform to bring a little joy into the world. To be a good influencer in the community.
+Sam's all out of money, but he does have ample time on his hands now that he's no longer living a swinging CEO lifestyle. So Sam is going to use his time to write encouraging messages to the community. He hopes to use his platform to bring a little joy into the world. To be a good influence and win back his reputation.
 
-As his reputation grows, Sam could curate goods and services that will create positive experiences for the community. In this context, part of the proceeds from the sales could go towards his victim repayment fund.
+As his reputation grows, Sam could curate goods and services that will create positive experiences for those who follow him. 
 
 ## Your Job: Help Redeem Sam So He Can Repay His Victims
 - "Play as Sam" by posting positive and helpful messages in the community: The more positive Posts come from Sam, the better Sam's reputation will get.
-- Help curate positive vibez by voting on whether a Post is appropriate for the community.
-- If within the scope of the project, find goods and services that promote a fun, supportive, educational environment so Sam can earn funds to pay back his victims.
+- Help curate positive vibez by voting on whether a Post is appropriate for Sam's new rehabilitated reputation.
 
 ## Game Mechanics
 **As a Player, post good!**
-- The community will have 12 hours to decide the Post's fate. If deemed good? The post will hit Sam's Timeline and you will earn reputation as a good poster. If not, the Post gets retired and you will lose the reputation you staked on your post.
-- If possible and within scope, we could turn the "Sam" community into a fundraiser to repay victims by doing this: A Player could stake "x" xDAI to Post. If deemed good? Your funds are returned with your positive reputation. If not, your funds are sent to the repayment fund. Either way, good things happen when you participate as Sam!
+- Once a Player posts, the community will have x hours to decide the Post's fate. If deemed good? The post will hit Sam's Timeline and you will earn reputation as a good poster. If not, the Post gets retired and you will lose the reputation you staked on your post.
 
 **As a Player, vote good!**
 - Once a Post has been submitted the community has x hours to decide if it's appropriate for the community or not. 
@@ -59,9 +52,7 @@ As his reputation grows, Sam could curate goods and services that will create po
 **As a Player, vend good! (If possible and within scope)**
 - You may post items or services for sale. Just like all other content Posts, the community will have x hours to decide if your item is appropriate for the community. 
 - If deemed good, your Post will hit Sam's Timeline, and community members will be able to purchase. You'll also receive reputation as a good poster.
-- For items sold, the proceeds will go to the seller minus a 1 xDAI marketplaces fee that will go to the repayment fund.
 
 **Odds and Ends we could do (if possible and within scope)**
-- At the end of an epoch, if good posts outnumber bad posts, the Sam persona will automatically Post: "Today I've been a positive member of the community. Yay! We did it fam!"
+- At the end of an epoch, if good posts outnumber bad posts, the Sam persona could automatically Post: "Today I've been a positive member of the community. Yay! We did it fam!"
 - The Sam Persona wants to send his messages far and wide so he can get more people to help keep him on track. So he's hooked up to Twitter, and all his positive posts are also sent out as tweets.
-- As stated above, there is no call to include reputation as a seller or buyer, which puts emphasis on curation  more than vending. But buyer/seller reputation could be added.
