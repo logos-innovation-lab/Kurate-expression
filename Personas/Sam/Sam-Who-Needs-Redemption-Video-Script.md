@@ -52,9 +52,9 @@ Pulsing bass plus piano on one note about 100 bpm. When the game play is reveale
 **Sam**: Great idea!
 
 **Narrator**:
-That's where you come in. Help Sam make amends and become a positive influence in the community. Post good and earn positive reputation! Vote and help curate helpful, inspirational, educational content that will help redeem Sam. He's got a long way to go, but with your help, he just might get there!
+That's where you come in! Take over Sam's identity, help him make amends by becoming a good influence in the community. Post good and earn positive reputation! Vote and help curate helpful, inspirational, educational content that will make up for Sam's bad behavior. Let's not let Sam's influence go to waste! But this time, we're gonna use it for good.
 
-**Sam**: Because if I can be redeemed, anyone can!
+**Sam**: Because if my reputation can be redeemed, anyone's can!
 
 ## Storyboard Locations
 1. Sam and friends in office
