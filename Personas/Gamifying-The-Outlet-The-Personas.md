@@ -29,15 +29,15 @@ They all appear the same, but can earn reputation by playing as Personas. Reputa
 
 ### Examples of Persona types that could exist. An "association", an "individual", and a "brand".
 
-**Association: Kars Drivers**
+**Association: Kars Drivers**:
 Kars Drivers is a rideshare association made up of elite drivers who put the comfort and safety of their clients above all else. Member requirement are quite strict, so it's difficult to join. They have amazing reputation in the community, so drivers who are invited to join get the best jobs and as much work as they would like. Join Kars Drivers and add to their stellar reputation. Playing as Kars Drivers means doing well-received rideshare deals through The Outlet.
 
-**Individual: Sam Who Needs Redemption**
+**Individual: Sam Who Needs Redemption**:
 Sam is not a good person — his reputation is in the shitter. He committed a fraud that hurt a lot of innocent people, using his influence in a destructive way. 
 
 Well, as a community we're not going to stand for it. So we're taking control of Sam's identity in order to rehabilitate his reputation. Players who adopt the Sam Persona are tasked with giving the Sam identity a second chance. Will he become a positive influence, thus helping ti right past wrongs? If so, Sam may indeed find redemption.
 
-**Brand: The Brand of Your Life**
+**Brand: The Brand of Your Life**:
 TBOYL posts products, design ideas, books, art, and entertainment that makes you say "Oh shit, that's fucking awesome!" Join TBOYL and help curate the best stuff on Earth, and earn good reputation while doing it.
 
 
