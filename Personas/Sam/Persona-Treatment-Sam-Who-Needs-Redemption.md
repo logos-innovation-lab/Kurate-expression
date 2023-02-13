@@ -1,8 +1,8 @@
-###### tags: `the outlet` `expression`
+###### tags: `Kurate` `expression`
 
 # Persona Treatment: Sam Who Needs Redemption
 ## Preamble
-The Outlet is a place where individuals can experience anonymous interaction and gain anonymous reputation, through game play as a group identity. In other words, "anonymity with accountability through group identity". 
+Kurate is a place where individuals can experience anonymous interaction and gain anonymous reputation, through game play as a group identity. In other words, "anonymity with accountability through group identity". 
 
 We call these group identities Personas, and individual players can don a Persona like a mask and use it as their forward-facing self. It's possible for many anonymous players to play as the same Persona at the same time.
 
@@ -14,7 +14,7 @@ We are at the very beginning of working with anonymous identity and group reputa
 
 These different looks are thought experiments. We hope they will inspire other teams and orgs to create their own spin on it. **The future is private but accountable. The future is fun!**
 
-For more information about anonymity with accountability through group identity, please [read this post](https://github.com/logos-innovation-lab/theoutlet-expression/blob/Main/Personas/Gamifying-The-Outlet-The-Personas.md).
+For more information about anonymity with accountability through group identity, please [read this post](https://github.com/logos-innovation-lab/Kurate-expression/blob/Main/Personas/Playing-With-Personas.md).
 
 ## Backstory For The Sam Persona
 ### Sam is coming off the worst year of his life. 
@@ -28,7 +28,7 @@ Sam gambled away his future. He gambled away his followers' futures. And he lost
 As mentioned, Sam has a huge following. But now that Sam has torched his reputation, all the potential good his influence could do is in danger of going to waste. We don't have to let that happen!
 
 
-In The Outlet, the community can "play" as the Sam Persona. We can help rehabilitate Sam's reputation by being a force for good. We can use his influence to make a positive impact, redeeming Sam's identity in the process.
+In Kurate, the community can "play" as the Sam Persona. We can help rehabilitate Sam's reputation by being a force for good. We can use his influence to make a positive impact, redeeming Sam's identity in the process.
 
 ## Game Play Overview
 Sam's all out of money, but he does have ample time on his hands now that he's no longer living a swinging CEO lifestyle. So Sam is going to use his time to write encouraging messages to the community. He hopes to use his platform to bring a little joy into the world. To be a good influence and win back his reputation.
@@ -48,11 +48,3 @@ As his reputation grows, Sam could curate goods and services that will create po
 - Players get 30 "Votes" per Epoch (x hours) and can use 1 or all 30 on a single Post.
 - Votes don't carry over to the next Epoch, so use them or lose them!
 - If you vote in the direction the community decides, you gain reputation as a good curator.
-
-**As a Player, vend good! (If possible and within scope)**
-- You may post items or services for sale. Just like all other content Posts, the community will have x hours to decide if your item is appropriate for the community. 
-- If deemed good, your Post will hit Sam's Timeline, and community members will be able to purchase. You'll also receive reputation as a good poster.
-
-**Odds and Ends we could do (if possible and within scope)**
-- At the end of an epoch, if good posts outnumber bad posts, the Sam persona could automatically Post: "Today I've been a positive member of the community. Yay! We did it fam!"
-- The Sam Persona wants to send his messages far and wide so he can get more people to help keep him on track. So he's hooked up to Twitter, and all his positive posts are also sent out as tweets.
