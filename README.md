@@ -59,7 +59,7 @@ Check out the Personas in the [Github folder here](https://github.com/logos-inno
 - Create a Persona
 
 ## Helpful Links
-For the original project "vibe and treatment", [go here](https://github.com/logos-innovation-lab/Kurate-expression/blob/Main/A%20Game%20Called%20%20Kurate:%20Original%20Vibe%20And%20Treatment.).
+For the original project "vibe and treatment", [go here](https://github.com/logos-innovation-lab/Kurate-expression/blob/Main/A-Game-Called-Kurate-Vibe-And-Treatment.md).
 
 Visit the Kurate project website here.
 
