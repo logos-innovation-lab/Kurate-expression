@@ -36,15 +36,15 @@ We make technology. Technology is but a tool that can be used for human enrichme
 ## Kurate: How To Play The Game
 Players will experience what it's like to join Kurate anonymously, but "play" as a group identity we call a Persona. 
 
-For example, sometimes a Persona may "look like" a brand.  To play as a brand Persona means to post content, goods, and services one believes is appropriate for that Persona. 
+For example, sometimes a Persona may "look like" a brand.  To play as a brand Persona means to post content, goods, and services one believes is appropriate for that brand. 
 
-A Player would ask themselves: "What types of things would this Persona share and amplify if they were a real person, with a real identity?" And then post accordingly. Another question might be "What types of content reflects the character of this community?"
+A Player would ask themselves: "What types of things would this Persona share and amplify if they were a real person, with a real identity?" And then post accordingly. Another question might be "What types of content reflect the character of this community?"
 
 Players also help curate appropriate content by "voting" on whether or not to amplify others' posts. If the community deems a post appropriate, it will be amplified to the Persona's main public page.
 
 In return Players earn reputation within the context of that Persona. For example, a Player who's posts are deemed appropriate by the community will gain reputation. And a Player who votes on a post in the same direction as the majority of voters will also earn reputation.
 
-So even though Players are anonymous, their reputation as actors in a community is public. In this way Players may retain their privacy while remaining accountable, building trust with those who interact with them.
+In this way Players may retain their privacy while remaining accountable.
 
 **We are building a game experience in order to best express Kurate**. That includes several Personas anyone can play as.
 
@@ -61,6 +61,6 @@ Check out the Personas in the [Github folder here](https://github.com/logos-inno
 ## Helpful Links
 For the original project "vibe and treatment", [go here](https://github.com/logos-innovation-lab/Kurate-expression/blob/Main/A-Game-Called-Kurate-Vibe-And-Treatment.md).
 
-Visit the Kurate project website here.
+Visit the Kurate project website: kurate.eth
 
-Play with Kurate here.
+Launch app here.
