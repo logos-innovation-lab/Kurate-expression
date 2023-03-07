@@ -36,6 +36,7 @@ Sam is not a good person — his reputation is in the shitter. He committed a fr
 Well, as a community we're not going to stand for it. So we're taking control of Sam's identity in order to rehabilitate his reputation. Players who adopt the Sam Persona are tasked with giving the Sam identity a second chance by posting helping content. Will he become a positive influence, thus helping to right past wrongs? If so, Sam may indeed find redemption
 
 **Art Project: A Book Eternal**
+
 A Book Eternal is a group curated novel where Players propose lines, paragraphs, or chapters to continue the story.
 
 
