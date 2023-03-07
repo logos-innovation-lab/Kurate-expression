@@ -1,5 +1,5 @@
 ###### tags: `Kurate` `expression`
-# Kurate Project Website: Copy Wireframe
+# Kurate Project Website: Copy Wireframe Proposal
 
 **[Above the fold]**
 
