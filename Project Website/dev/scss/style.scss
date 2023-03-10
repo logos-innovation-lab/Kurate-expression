@@ -1,10 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&family=Source+Serif+Pro:wght@400;600&display=swap");
 
 :root {
-  /* color-scheme: light dark; */
 
   --font-body: "Source Sans Pro";
-  // --font-mono: 'Source Code Pro';
   --font-serif: "Source Serif Pro";
 
   --font-weight-thin: 300;
@@ -14,13 +12,7 @@
   --color-body-bg: #ffffff;
   --color-body-text: #181818;
   --color-body-bg-rgb: 255, 255, 255;
-  --color-body-text-rgb: 24, 24, 24;
   --color-black: #000000;
-  --color-black-rgb: 0, 0, 0;
-  --color-red: #ff0000;
-  --color-red-rgb: 255, 0, 0;
-
-  --color-success: #12bb10;
 
   --grey-100: #f0f0f0;
   --grey-150: #f9f9f9;
@@ -29,26 +21,19 @@
   --grey-400: #666666;
   --grey-500: #2c2c2c;
 
-  --success-highlight: #eafaea;
-
-  --spacing-3: 3px;
-  --spacing-4: 4px;
   --spacing-6: 6px;
   --spacing-8: 8px;
   --spacing-12: 12px;
-  --spacing-15: 15px;
   --spacing-24: 24px;
   --spacing-48: 48px;
   --spacing-96: 96px;
   --padding-section: var(--spacing-48) var(--spacing-24);
 
-  --blur: 3px;
-
   --font-size-xl: 48px;
   --font-size-lg: 24px;
   --font-size-normal: 16px;
   --font-size-sm: 14px;
-  // --font-size-xs: 12px;
+
 }
 
 h1:not(:empty),
@@ -77,10 +62,6 @@ h2:not(:empty),
 h3:not(:empty),
 .h3:not(:empty) {
   font-size: var(--font-size-normal);
-}
-
-.text-large {
-  font-size: var(--font-size-lg);
 }
 
 html {
@@ -119,7 +100,6 @@ body {
 
 img, 
 picture,
-/* svg, */
 video {
   display: block;
   max-width: 100%;
@@ -151,23 +131,6 @@ a.button {
   font-weight: var(--font-weight-sb);
 }
 
-/* @media (prefers-color-scheme: dark) {
-	:root {
-		--success-highlight: #052b05;
-		--color-body-bg: #000000;
-		--color-body-text: #ffffff;
-		--color-body-bg-rgb: 0, 0, 0;
-		--color-body-text-rgb: 255, 255, 255;
-
-		background-color: var(--color-body-bg);
-		color: var(--color-body-text);
-	}
-
-	hr {
-		background-color: var(--grey-500);
-	}
-} */
-
 // CONTAINER
 
 .container {
@@ -175,21 +138,21 @@ a.button {
   max-width: 498px;
   margin-inline: auto;
 
-  @media (min-width: 688px) {
-    // max-width: 996px;
-  }
+//   @media (min-width: 688px) {
+//     max-width: 996px;
+//   }
 
   @media (min-width: 1242px) {
     max-width: 1494px;
   }
 
-  @media (min-width: 1640px) {
-    max-width: 1992px;
-  }
+//   @media (min-width: 1640px) {
+//     max-width: 1992px;
+//   }
 
-  @media (min-width: 2038px) {
-    max-width: 2490px;
-  }
+//   @media (min-width: 2038px) {
+//     max-width: 2490px;
+//   }
 }
 
 // BUTTONS
@@ -326,10 +289,6 @@ footer {
     margin-bottom: 48px;
   }
 
-  // .buttons {
-  // 	margin-top: var(--spacing-48);
-  // }
-
   &#trynow {
     .buttons {
       margin-top: 36px;
@@ -351,6 +310,7 @@ footer {
   flex-direction: column;
   gap: var(--spacing-12);
   flex-basis: 100%;
+  max-width: 450px;
 
   .buttons {
     justify-content: flex-start;
@@ -358,7 +318,7 @@ footer {
 }
 
 .subtitle {
-  font-size: 24px;
+  font-size: 20px;
 }
 
 .hero {
@@ -388,7 +348,7 @@ footer {
 			display: flex;
 			flex-direction: column;
 			gap: var(--spacing-8);
-			max-width: 450px;
+			max-width: 508px;
 			order: 2;
 			text-align: center;
 		
@@ -417,7 +377,6 @@ footer {
 					&.secondary {
 						border-color: rgba(var(--color-body-bg-rgb), 0.5);
 						color: var(--color-body-bg);
-						// background-color: transparent;
 					}
 				}
 			}
@@ -464,10 +423,6 @@ footer {
 
   .swiper {
     width: 100%;
-
-	// .swiper-wrapper {
-	//   align-items: center;
-	// }
   }
 
 
@@ -507,14 +462,20 @@ footer {
   }
 }
 
+.intro {
+	span {
+		font-family: var(--font-serif);
+		font-style: italic;
+	}
+}
+
 footer {
   background-color: var(--color-body-text);
   color: var(--color-body-bg);
-  // padding: var(--spacing-24);
   font-weight: var(--font-weight-thin);
 
   .buttons {
-    margin-top: var(--spacing-24);
+    margin-top: var(--spacing-12);
     margin-bottom: var(--spacing-48);
 
     .button {
@@ -542,7 +503,6 @@ footer {
   text-align: center;
 
   .col {
-    // max-width: max(450px, calc(calc(100% - 96px) / 3));
     max-width: 450px;
 	margin-inline: auto;
 
@@ -559,6 +519,10 @@ footer {
     --font-size-normal: 18px;
     --font-size-sm: 16px;
     --padding-section: var(--spacing-96) var(--spacing-48);
+  }
+
+  .subtitle {
+  	font-size: 24px;
   }
 
   footer {
@@ -584,7 +548,6 @@ footer {
   }
 
   .hero {
-    // padding-block: 124px;
 
     .content {
       p {
@@ -630,7 +593,12 @@ footer {
 		.container {
 			.content {
 				.text {
-					order: 1
+					text-align: left;
+					order: 1;
+
+					.buttons {
+						justify-content: flex-start;
+					}
 				}
 			
 				.img {
