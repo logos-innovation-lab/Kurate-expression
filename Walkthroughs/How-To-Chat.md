@@ -42,7 +42,7 @@ The menu in the top right of the screen provides some extra functionality. A Pla
 
 ![](https://i.imgur.com/Lo9Y0Rv.png)
 
-For a full overview of gameplay, please see the How To Play article.
+For a full overview of gameplay, please see this [Full App Walkthrough](https://github.com/logos-innovation-lab/Kurate-expression/blob/Main/Walkthroughs/Full-App-Walkthrough.md) article.
 
 **Try out Kurate by navigating to kurate.eth.**
 
