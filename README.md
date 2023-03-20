@@ -61,6 +61,4 @@ Check out the Personas in the [Github folder here](https://github.com/logos-inno
 ## Helpful Links
 For the original project "vibe and treatment", [go here](https://github.com/logos-innovation-lab/Kurate-expression/blob/Main/A-Game-Called-Kurate-Vibe-And-Treatment.md).
 
-Visit the Kurate project website: kurate.eth
-
-Launch app here.
+Visit the Kurate project website where you can also launch the app: kurate.eth
