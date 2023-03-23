@@ -56,6 +56,7 @@ Check out the Personas in the [Github folder here](https://github.com/logos-inno
 - Vote on the appropriateness of a post from another Player.
 - Stake reputation on a Post — earning reputation if the community votes to amplify it.
 - Earn reputation through curating community-appropriate posts.
+- Anonymously Chat
 - Create a Persona
 
 ## Helpful Links
