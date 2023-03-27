@@ -1,5 +1,5 @@
-# Persona Treatment: The hardest questions ever asked, with imperfect answers.
-###### tags: `kurate` `expression`
+# Persona Treatment: The hardest questions with imperfect answers.
+###### tags: `Kurate` `expression`
 
 ![](https://i.imgur.com/xzecZcj.jpg)
 
@@ -7,7 +7,7 @@
 Every questions begets a quest.
  
 ## Description
-Life is filled with tough questions without perfect answers. Post those questions here so we may reflect on them together. Every questions begets a quest.
+Life is filled with tough questions without perfect answers. We pose them here here so we may reflect on them together. Every questions begets a quest.
 
 ### Post 1
 In what way are you being perceived that you are not aware of?
