@@ -162,7 +162,11 @@ a.button {
 	justify-content: center;
 	align-items: center;
 	flex-wrap: wrap;
+<<<<<<< HEAD
+	gap: var(--spacing-12);	
+=======
 	gap: var(--spacing-12);
+>>>>>>> Main
 }
 
 .button {
@@ -404,6 +408,7 @@ footer {
 	margin: 0;
 	padding: 0;
 	text-align: center;
+	padding-bottom: var(--spacing-96);
 
 	h2 {
 		padding-top: var(--spacing-96);
@@ -420,6 +425,10 @@ footer {
 	.buttons {
 		opacity: 0;
 		transition: opacity 0.5s;
+	}
+
+	.buttons {
+		display: none;
 	}
 
 	.button {
