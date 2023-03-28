@@ -10,9 +10,11 @@
 	--font-weight-sb: 600;
 
 	--color-body-bg: #ffffff;
+	--color-body-bg-rgb: 255, 255, 255;	
 	--color-body-text: #181818;
 	--color-body-bg-rgb: 255, 255, 255;
 	--color-black: #000000;
+	--color-black-rgb: 0, 0, 0;
 
 	--grey-100: #f0f0f0;
 	--grey-150: #f9f9f9;
@@ -162,11 +164,7 @@ a.button {
 	justify-content: center;
 	align-items: center;
 	flex-wrap: wrap;
-<<<<<<< HEAD
 	gap: var(--spacing-12);	
-=======
-	gap: var(--spacing-12);
->>>>>>> Main
 }
 
 .button {
@@ -380,11 +378,20 @@ footer {
 							background-color: var(--color-body-bg);
 							border-color: var(--color-body-bg);
 							color: var(--color-body-text);
+
+
+							&:hover {
+								background-color: rgba(var(--color-body-bg-rgb), 0.8);
+							}
 						}
 
 						&.secondary {
 							border-color: rgba(var(--color-body-bg-rgb), 0.5);
 							color: var(--color-body-bg);
+
+							&:hover {
+								background-color: rgba(var(--color-black-rgb), 0.2);
+							}
 						}
 					}
 				}
@@ -502,6 +509,11 @@ footer {
 			&.secondary {
 				color: var(--color-body-bg);
 				border-color: var(--grey-400);
+
+
+				&:hover {
+					background-color: rgba(var(--color-body-bg-rgb), 0.2);
+				}
 			}
 		}
 	}
