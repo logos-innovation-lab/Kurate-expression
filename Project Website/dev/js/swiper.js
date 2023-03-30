@@ -4,6 +4,7 @@ var swiper = new Swiper(".mySwiper", {
 	effect: "coverflow",
 	grabCursor: true,
 	centeredSlides: true,
+	centeredSlidesBounds: true,
 	slidesPerView: "auto",
 	coverflowEffect: {
 		rotate: 30,
@@ -31,7 +32,6 @@ function isInViewport(elem) {
 		bounding.right <= (window.innerWidth || document.documentElement.clientWidth)
 	);
 };
-
 
 document.addEventListener('scroll', function () {
 	if (isInViewport(mySwiper)) {
