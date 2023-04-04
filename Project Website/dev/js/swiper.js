@@ -1,3 +1,13 @@
+var controlledSwiper = new Swiper(".controlledSwiper", {
+	initialSlide: 0,
+	// loop: true,
+	// centeredSlides: true,
+	// allowSlideNext: false,
+	// allowSlidePrev: false,
+	// allowTouchMove: false,
+	// observeParents: true,
+});
+
 var swiper = new Swiper(".mySwiper", {
 	initialSlide: 0,
 	loop: true,
@@ -16,12 +26,12 @@ var swiper = new Swiper(".mySwiper", {
 		modifier: 0.8,
 		slideShadows: true,
 	},
-	pagination: {
-		el: ".swiper-pagination",
-	},
 	navigation: {
 		nextEl: '.swiper-button-next',
 		prevEl: '.swiper-button-prev',
+	},
+	controller: {
+		control: controlledSwiper,
 	},
 });
 
