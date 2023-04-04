@@ -1,12 +1,12 @@
-var controlledSwiper = new Swiper(".controlledSwiper", {
-	initialSlide: 0,
-	// loop: true,
-	// centeredSlides: true,
-	// allowSlideNext: false,
-	// allowSlidePrev: false,
-	// allowTouchMove: false,
-	// observeParents: true,
-});
+// var controlledSwiper = new Swiper(".controlledSwiper", {
+// 	initialSlide: 0,
+// 	loop: true,
+// 	centeredSlides: true,
+// 	allowSlideNext: false,
+// 	allowSlidePrev: false,
+// 	allowTouchMove: false,
+// 	observeParents: true,
+// });
 
 var swiper = new Swiper(".mySwiper", {
 	initialSlide: 0,
@@ -30,9 +30,9 @@ var swiper = new Swiper(".mySwiper", {
 		nextEl: '.swiper-button-next',
 		prevEl: '.swiper-button-prev',
 	},
-	controller: {
-		control: controlledSwiper,
-	},
+	// controller: {
+	// 	control: controlledSwiper,
+	// },
 });
 
 let first = true;
@@ -59,3 +59,11 @@ document.addEventListener('scroll', function () {
 		first = true;
 	}
 })
+
+// let activeSlide = 0;
+
+// swiper.on('slideChange', function (e) {
+// 	// controlledSwiper.activeSlide = swiper.activeSlide;
+// 	console.log('swiper: ' + swiper.activeIndex);
+// 	console.log('controlled: ' + controlledSwiper.activeIndex);
+// })

@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&family=Source+Serif+Pro:wght@400;600&display=swap");
 
 :root {
-    --font-body: "Source Sans Pro";
-    --font-serif: "Source Serif Pro";
+    --font-body: "Source Sans Pro", sans-serif;
+    --font-serif: "Source Serif Pro", serif;
 
     --font-weight-thin: 300;
     --font-weight-normal: 400;
