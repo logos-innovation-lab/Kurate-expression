@@ -229,8 +229,7 @@ a.button {
     }
 }
 
-section,
-footer {
+section {
     padding: var(--padding-section);
     display: flex;
     gap: var(--spacing-48);
@@ -456,9 +455,14 @@ footer {
     color: var(--color-body-bg);
     font-weight: var(--font-weight-thin);
 
+	.container {
+		padding-block: var(--spacing-24);
+		gap: var(--spacing-24);
+	}
+
     .buttons {
         margin-top: var(--spacing-12);
-        margin-bottom: var(--spacing-48);
+        // margin-bottom: var(--spacing-48);
 
         .button {
             color: var(--color-body-bg);
@@ -484,17 +488,13 @@ footer {
     }
 }
 
-#trynow,
-footer {
-    text-align: center;
+#trynow {
+	margin-inline: auto;
+}
 
+footer {
     .col {
         max-width: 450px;
-        margin-inline: auto;
-
-        .buttons {
-            justify-content: center;
-        }
     }
 }
 
@@ -509,10 +509,6 @@ footer {
 
     .subtitle {
         font-size: 24px;
-    }
-
-    footer {
-        padding-block: var(--spacing-48);
     }
 }
 
@@ -568,7 +564,13 @@ footer {
     }
 
     footer {
-        padding: var(--spacing-48);
+		.container {
+			padding-block: var(--spacing-48);
+
+			.buttons {
+				margin-top: var(--spacing-12);
+			}
+		}
     }
 }
 
@@ -603,10 +605,6 @@ footer {
 
         .col {
             margin-left: 0;
-
-            .buttons {
-                justify-content: flex-start;
-            }
         }
     }
 }
