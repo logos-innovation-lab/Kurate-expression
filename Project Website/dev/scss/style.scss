@@ -427,6 +427,11 @@ footer {
             height: auto;
         }
     }
+
+	.swiper-button-next,
+	.swiper-button-prev {
+		@extend .button;
+	}
 }
 
 .intro {

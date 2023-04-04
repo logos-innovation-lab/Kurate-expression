@@ -2,6 +2,9 @@ var swiper = new Swiper(".mySwiper", {
 	initialSlide: 0,
 	loop: true,
 	effect: "coverflow",
+	keyboard: {
+		enabled: true,
+	},
 	grabCursor: true,
 	centeredSlides: true,
 	loopedSlides: 3,
@@ -11,11 +14,14 @@ var swiper = new Swiper(".mySwiper", {
 		stretch: 80,
 		depth: 500,
 		modifier: 0.8,
-		// scale: 0.85,
 		slideShadows: true,
 	},
 	pagination: {
 		el: ".swiper-pagination",
+	},
+	navigation: {
+		nextEl: '.swiper-button-next',
+		prevEl: '.swiper-button-prev',
 	},
 });
 
