@@ -45,7 +45,7 @@ Players who post remain anonymous, but the community decides whether or not to a
 Also, curating and creating Players earn reputation (REP) for positive gameplay (acting in-line with the values of a community). The more REP a Player has, the more they may do in Kurate.
 
 ## Technology
-We are using ZK-Proof technology to ensure privacy, and either non-repudiable reputation a-la [Unirep](https://medium.com/privacy-scaling-explorations/unirep-a-private-and-non-repudiable-reputation-system-7fb5c6478549), or zero-knowledge group membership like [Semaphore](https://semaphore.appliedzkp.org/) (or a combination of both) to enable participants to privately submit and curate public content.
+We are using ZK-Proof technology and [Waku](https://waku.org/) to ensure privacy, with a hat-tip to [Unirep](https://medium.com/privacy-scaling-explorations/unirep-a-private-and-non-repudiable-reputation-system-7fb5c6478549), and [Semaphore](https://semaphore.appliedzkp.org/).
 
 ## For Developers
 **Would you like to launch and play with Kurate locally?**
