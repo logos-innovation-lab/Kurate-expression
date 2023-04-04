@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&family=Source+Serif+Pro:wght@400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&family=Source+Serif+Pro:ital,wght@1,600&display=swap");
 
 :root {
     --font-body: "Source Sans Pro", sans-serif;
@@ -273,13 +273,12 @@ footer {
 }
 
 .hero {
-    color: var(--color-body-bg);
-    background-color: var(--grey-300);
+    color: var(--color-body-body);
+    // background-color: var(--grey-300);
     display: flex;
     flex-direction: column;
 
     .container {
-        max-width: 100%;
 
         .content {
             display: flex;
@@ -314,33 +313,6 @@ footer {
                 .buttons {
                     justify-content: center;
                     margin-top: var(--spacing-48);
-
-                    .button {
-                        &.primary {
-                            background-color: var(--color-body-bg);
-                            border-color: var(--color-body-bg);
-                            color: var(--color-body-text);
-
-                            &:hover {
-                                background-color: rgba(
-                                    var(--color-body-bg-rgb),
-                                    0.8
-                                );
-                            }
-                        }
-
-                        &.secondary {
-                            border-color: rgba(var(--color-body-bg-rgb), 0.5);
-                            color: var(--color-body-bg);
-
-                            &:hover {
-                                background-color: rgba(
-                                    var(--color-black-rgb),
-                                    0.2
-                                );
-                            }
-                        }
-                    }
                 }
             }
 
@@ -437,7 +409,6 @@ footer {
 		border-color: transparent;
 		backdrop-filter: blur(var(--blur));
 		color: var(--color-body-bg);
-		// top: var(--swiper-navigation-top-offset, 35%);
 		top: min(calc(calc(65vw / 2) - 44px), var(--swiper-navigation-top-offset, 30%));
 	}
 	
